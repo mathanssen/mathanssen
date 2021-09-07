@@ -4,7 +4,7 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheus-hanssen/" target="blank"
+  <a href="https://www.linkedin.com/in/matheus-hanssen/" target="_blank"
     ><img
       align="center"
       src="https://img.icons8.com/color/96/000000/linkedin.png"
