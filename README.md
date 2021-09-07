@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Matheus Hanssen</h1>
+<h3 align="center">Data Scientist & Mobile Developer</h3>
 
-<!--
-**mathanssen/mathanssen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-hanssen/" target="blank"
+    ><img
+      align="center"
+      src="https://img.icons8.com/color/96/000000/linkedin.png"
+      width="60px"
+      height="60px"
+  /></a>
+  &nbsp;&nbsp;
+  <a href="http://www.matheushanssen.com/" target="blank"
+    ><img
+      align="center"
+      src="https://documents-mh.s3.us-east-2.amazonaws.com/logo.png"
+      width="60px"
+      height="60px"
+  /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:matheus.hanssen@hotmail.com" target="blank"
+    ><img
+      alt="mail"
+      title="mail"
+      align="center"
+      src="https://img.icons8.com/color/96/000000/microsoft-outlook-2019--v2.png"
+      width="60px"
+      height="60px"
+  /></a>
+  &nbsp;&nbsp;
+</p>
