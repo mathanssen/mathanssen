@@ -4,7 +4,7 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheus-hanssen/" target="_blank"
+  <a href="https://www.linkedin.com/in/matheus-hanssen/" target="_blank" rel="noopener noreferrer"
     ><img
       align="center"
       src="https://img.icons8.com/color/96/000000/linkedin.png"
@@ -12,7 +12,7 @@
       height="60px"
   /></a>
   &nbsp;&nbsp;
-  <a href="http://www.matheushanssen.com/" target="blank"
+  <a href="http://www.matheushanssen.com/" target="_blank" rel="noopener noreferrer"
     ><img
       align="center"
       src="https://documents-mh.s3.us-east-2.amazonaws.com/logo.png"
@@ -20,7 +20,7 @@
       height="60px"
   /></a>
   &nbsp;&nbsp;
-  <a href="mailto:matheus.hanssen@hotmail.com" target="blank"
+  <a href="mailto:matheus.hanssen@hotmail.com" target="_blank" rel="noopener noreferrer"
     ><img
       alt="mail"
       title="mail"
