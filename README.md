@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Hanssen</h1>
-<h3 align="center">Data Scientist & Mobile Developer</h3>
+<h3 align="center">Data Scientist</h3>
 
 ## Connect with me
 
