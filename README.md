@@ -12,7 +12,7 @@
       height="60px"
   /></a>
   &nbsp;&nbsp;
-  <a href="http://www.matheushanssen.com/" target="_blank" rel="noopener noreferrer"
+  <a href="https://www.matheushanssen.com/" target="_blank" rel="noopener noreferrer"
     ><img
       align="center"
       src="https://documents-mh.s3.us-east-2.amazonaws.com/logo.png"
