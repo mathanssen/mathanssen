@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ### About me
 
 Data Scientist and ML/AI Engineer with 10+ years turning data into products that ship. I work across the full ML lifecycle — from feature engineering and model training to deploying real-time inference at scale. Currently focused on LLM-powered applications, multi-agent systems, RAG pipelines, and Model Context Protocol (MCP).
